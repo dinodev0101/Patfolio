@@ -1,0 +1,59 @@
+{
+    "internationalizations": [
+        {
+            "language": "pt",
+            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
+        },
+        {
+            "language": "en",
+            "description": "My path as a programmer has started at 11 years old, when I've fallen in love with Pascal. <br>At that time, the latest operating system was Windows 98. I used to try to make games ( small MS-DOS games) like ones in SEGA. <br>For over 6 years, I fought several programming languages and SDKs such as Visual Basic, Visual C++, Windows Programming (API, MFC) and Qt.<br> A few years later, I got an internship as a Webmaster, since then, I've never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br> I had an entrepreneurship experience, when a friend of mine presented me Magento, an extremely popular e-commerce framework. Also there was another friend who gave me the chance to develop online educational administration system.<br> After doing several courses and a lot of practices, I got contracts with agencies from Singapore and the United States of America.<br><br> This experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br> Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
+        }
+    ],
+    "medias": [
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/dinodev0101"
+        },
+        {
+            "icon": "skype",
+            "title": "Skype",
+            "http": "https://join.skype.com/invite/pLJYVza19DRF"
+        }
+    ],
+    "medias1": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/guilhermeborgesbastos/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/dinodev0101"
+        },
+        {
+            "icon": "facebook",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/guilherme.borgesbastos"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        }
+    ]
+}
