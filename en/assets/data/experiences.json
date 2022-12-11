@@ -20,11 +20,11 @@
                 "city": "Santa Clara and San Francisco",
                 "country": "United States",
                 "role": "Freelancer",
-                "description": "Upwork Global Inc., formerly Elance-oDesk, is an American freelancing platform headquartered in Santa Clara and San Francisco, California. The company was formed in 2013 as Elance-oDesk, after the merger of Elance Inc. and oDesk Corp. The merged company subsequently rebranded to Upwork in 2015."
+                "description": "- Developed (hands-on) full-stack web projects, distributed systems, and services.<br>- Conducted research for customer intelligence related to eCommerce and online marketing solutions for wellknown brands. <br>- Managed multiple projects and products driving them to a successful outcome."
             }
         ],
         "technologies": [
-            "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows", "MacOS", "Android", "Java", "iOS", "cocos2d", "Unity3D", "CodeIgniter"
+            "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows", "MacOS", "Android", "Java", "iOS", "cocos2d", "Unity3D", "CodeIgniter", "Node.js", "Linux", "Refactoring", "RESTful Services", "RESTful APIs", "Object-oriented Design (OOD)", "Object-oriented Programming (OOP)", "Automated Testing", "Jasmine", "Instruction & Coaching" 
         ],
         "medias1": [
             {
@@ -41,8 +41,8 @@
     {
         "id": 2,
         "position": 2,
-        "startAt": "12-01-2014",
-        "endAt": "08-01-2015",
+        "startAt": "08-01-2014",
+        "endAt": "11-01-2018",
         "companyName": "Ranosys",
         "website": "https://www.ranosys.com/",
         "logo": "assets/template/experience/logo/ranosys-logo.png",
@@ -58,12 +58,12 @@
                 "language": "en",
                 "city": "Singapore",
                 "country": "Singapore",
-                "role": "Intern",
-                "description": "- Developed company procedures and guidelines for data analysis and security that increased efficiency by 30% in the first 6 months after implementation. <br>- Participated in over 250 code reviews to ensure code quality and received mentoring from senior developers."
+                "role": "Software Developer",
+                "description": "- Maintained a 100% 5-star rating in 12 projects.<br>- Developed company procedures and guidelines for data analysis and security that increased efficiency by 30% in the first 6 months after implementation.<br>- Participated in over 250 code reviews to ensure code quality and received mentoring from senior developers.<br>- Designed, built, and automated data flows to save 10+ hours of tedious work per week.<br>- Applied hands-on learning and agile development to build MEAN and MERN stack applications.<br>- Developed Unit and E2E test cases using Jasmine, Jest, Mocha and Grunt, Node.js.<br>- Solved difficult dataset problems using ideas from distributed computing, large-scale design, real-time data processing, data storage, artificial intelligence, and machine learning, saving 35% on maintenance costs.<br>- Redesigned and rebuilt over 20 companies’ websites and mobile apps, and resulted in remarkable growth for over 10 startup companies.<br>- Gained experience with various web development tools, including Bower, NPM, Git, Material Design, Gulp, and Cloud Services like AWS, Azure, GCP, Heroku and so on.<br>- Built a web-based WYSIWYG visual designer (Kococonnect) for mobile applications and embedded mobile experiences using React, React-Redux, and TypeScript.<br>- Devised and implemented the WYSIWYG Experience Editing Platform."
             }
         ],
         "technologies": [
-            "AngularJS", "Apache Cordova", "Node.js", "WebRTC", "Ionic", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux", "ASP.NET"
+            "AngularJS", "Apache Cordova", "Node.js", "WebRTC", "Ionic", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux", "ASP.NET", "Microsoft Dynamics CRM", "Web API", "Bower", "Grunt", "Scrum", "React", "Office 365", "SpecFlow", "Selenium", "TypeScript", "AngularJS", "ASP.NET MVC", "Microsoft Azure", "React Native", "Android", "iOS"
         ],
         "medias":[],
         "medias1": [
@@ -88,11 +88,11 @@
     {
         "id": 3,
         "position": 3,
-        "startAt": "09-01-2015",
+        "startAt": "10-01-2015",
         "endAt": "11-01-2016",
-        "companyName": "Ranosys",
-        "website": "https://www.ranosys.com/",
-        "logo": "assets/template/experience/logo/ranosys-logo.png",
+        "companyName": "Swift Moving",
+        "website": "",
+        "logo": "assets/template/experience/logo/swift-moving.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -103,14 +103,14 @@
             },
             {
                 "language": "en",
-                "city": "Singapore",
-                "country": "Singapore",
-                "role": "Full-stack Developer",
-                "description": "- Maintained a 100% 5-star rating in 12 projects.<br>- Designed, built, and automated data flows to save 10+ hours of tedious work per week. <br>- Applied hands-on learning and agile development to build MEAN and MERN stack applications. <br>- Developed Unit and E2E test cases using Jasmine, Jest, Mocha and Grunt, Node.js."
+                "city": "",
+                "country": "United States",
+                "role": "Software Engineer",
+                "description": "- An early stage startup in the B2B payments space; was fully responsible for all aspects of the technology solution.<br>- Provisioned and administered Linux virtual machines on AWS.<br>- Developed web apps in JavaScript on Node.js and Angular.<br>- Implemented file processing with Python.<br>- Worked on MySQL data modeling, SQL programming, and database administration."
             }
         ],
         "technologies": [
-            "Java (Android)", "React.js", "React Native", "Xamarin", "Express.js", "MongoDB", "Google APIs", "C# (.NET)", "SMTP", "Version Control", "BitBucket", "Jira", "Git", "Kanban framework"
+            "Java (Android)", "React.js", "React Native", "Xamarin", "Express.js", "MongoDB", "Google APIs", "C# (.NET)", "SMTP", "Version Control", "BitBucket", "Jira", "Git", "Kanban framework",  "Amazon Web Services (AWS)", "Relational Database Services (RDS)", "MySQL", "Node.js", "Python", "BigQuery", "Spark", "Hadoop", "Angular", "Microsoft SQL Server"
         ],
         "medias": [],
         "medias1": [
@@ -125,50 +125,8 @@
     {
         "id": 4,
         "position": 4,
-        "startAt": "12-01-2016",
-        "endAt": "11-22-2018",
-        "companyName": "Ranosys",
-        "website": "https://www.ranosys.com/",
-        "logo": "assets/template/experience/logo/ranosys-logo.png",
-        "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Utrecht",
-                "country": "Países Baixos",
-                "role": "Desenvolvedor Full-stack",
-                "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
-            },
-            {
-                "language": "en",
-                "city": "Singapore",
-                "country": "Singapore",
-                "role": "Lead Full-stack Developer",
-                "description": "- Solved difficult dataset problems using ideas from distributed computing, large-scale design, real-time data processing, data storage, artificial intelligence, and machine learning, saving 35% on maintenance costs.<br>- Redesigned and rebuilt over 20 companies' websites, and resulted in remarkable growth for over 10 startup companies.<br>- Gained experience with various web development tools, including Bower, NPM, Git, Material Design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on. <br>- Led and managed a team of 9 developers, which included 4 frontend developers, 3 backend developers, and 2 DevOps."
-            }
-        ],
-        "technologies": [
-            "React", "React Native", "MySQL", "Elastic Search", "AWS", "Firebase", "Java", "Android", "Swift", "iOS", "Python (data scrapers)", "Scrum", "Unit Tests", "TDD", "Tensorflow", "AI & Machine Learning" , "OpenAI", "CNTK"
-        ],
-        "medias": [],
-        "medias1": [
-            {
-                "icon": "youtube",
-                "title": "YouTube Skydreamer",
-                "http": "https://www.youtube.com/channel/UCZ6_SqHB-Sdl7EHIXbvYoSw"
-            },
-            {
-                "icon": "facebook",
-                "title": "Facebook SkyDreamer App",
-                "http": "https://www.facebook.com/skydreamer.io/"
-            }
-        ],
-        "backgroundUrl": "assets/template/experience/utrecht.jpg"
-    },
-    {
-        "id": 5,
-        "position": 5,
         "startAt": "02-18-2019",
-        "endAt": "04-15-2020",
+        "endAt": "04-15-2022",
         "companyName": "Bancambios",
         "logo": "assets/template/experience/logo/bancambios-logo.png",
         "internationalizations": [
@@ -184,11 +142,11 @@
                 "city": "Uberaba",
                 "country": "United States",
                 "role": "Software Engeneer",
-                "description": "- Maintained customer satisfaction with forward-thinking strategies focused on addressing customer needs and resolving concerns.<br> - Collaborated with external programmers to coordinate the delivery of 6 new software applications. <br> - Built security into new product features to achieve 100% compliance with industry best practices."
+                "description": "- Successfully implemented 7 backend services and infrastructure to power core blockchain-based products in 8 months. <br>- Built security into new product features to achieve 100% compliance with industry best practices. <br>- Collaborated with external programmers to coordinate the delivery of 6 new software applications. <br>- Maintained customer satisfaction with forward-thinking strategies focused on addressing customer needs and resolving concerns. <br>- Participated in 3 NFT marketplace development projects and was instrumental in their success. <br>- Developed, tested, and deployed a manufacturing executing system (MES) for three large factories in the hydraulic industry. The system included production planning, execution, reporting, warehouse, and shipping. <br>- Led, designed, developed, tested, and deployed as a project leader an overall equipment effectiveness (OEE) monitoring system for monitoring the performance of the machine park in a factory in the automotive industry. "
             }
         ],
         "technologies": [
-            "Flutter", "Electron", "Django", "Selenium", "Ruby on Rails", "Liquid", "Spring Boot", "Javascript", "Angular", "NoSQL", "MongoDB", "Integration Tests", "Version Control", "BitBucket", "Git", "Maven", "Scrum", "Shopify", "Wordpress"
+            "Java", "Spring Boot", "Angular", "Typescript", "Javascript", "SDX", "Versioning Control", "DevOps", "CI/CD", "JUnit", "Karma", "Jasmine", "Selenium", "Jenkins", "Docker", "NPM", "Gradle", "Jira", "Flutter", "Electron", "Django", "Selenium", "Ruby on Rails", "Liquid", "Spring Boot", "Javascript", "Angular", "NoSQL", "MongoDB", "Integration Tests", "Version Control", "BitBucket", "Git", "Maven", "Scrum", "Shopify", "Wordpress"
         ],
         "medias": [],
         "medias1": [
@@ -211,57 +169,11 @@
         "backgroundUrl": "assets/template/experience/uberaba.jpg"
     },
     {
-        "id": 6,
-        "position": 6,
-        "startAt": "05-01-2020",
-        "endAt": "06-01-2022",
-        "companyName": "Bancambios",
-        "logo": "assets/template/experience/logo/bancambios-logo.png",
-        "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Rotterdão",
-                "country": "Países Baixos",
-                "role": "Engenheiro Full-stack",
-                "description": "<b>Swisscom</b> é a empresa <b>#1</b> de telecomunicações e uma das principais empresas de TI da Suíça. Seus produtos e serviços variam de soluções B2C, como a Swisscom TV, a soluções de TI B2B em vários setores, como Bancos, Saúde, Energia, Entretenimento e Publicidade.<br><br>Na <i>Swisscom DevOps Center</i>, inovação e experimentação estão profundamente enraizadas no DNA da empresa. O ambiente multicultural com 15 nacionalidades, somado à cultura de <i>Tribos/Esquadrões</i>, contribui para colocar nós, funcionários, como parte de uma equipe virtual internacional, especializada em DevOps, entre várias outras tecnologias de ponta."
-            },
-            {
-                "language": "en",
-                "city": "Rotterdam",
-                "country": "Netherlands",
-                "role": "Full-stack Engineer",
-                "description": "- Participated in 3 NFT marketplace development projects and was instrumental in their success. <br>- Successfully implemented 7 backend services and infrastructure to power core blockchain-based products. <br>- Experienced with multiple blockchain technology platforms (Ethereum, Hyperledger, Ripple, and Solana). <br> - Developed hundreds of smart contracts for mainnet deployment and audited over 1000. <br>- Creating more than 20 dApps with ECMAScript, React.js, Angular, Vue, Node.js, and Web3.<br>- Focused on CMS development, such as Shopify and WordPress."
-            }
-        ],
-        "technologies": [
-            "Java", "Spring Boot", "Angular", "Typescript", "Javascript", "SDX", "Versioning Control", "DevOps", "CI/CD", "JUnit", "Karma", "Jasmine", "Selenium", "Jenkins", "Docker", "NPM", "Gradle", "Jira"
-        ],
-        "medias":[],
-        "medias1": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn Swisscom",
-                "http": "https://www.linkedin.com/company/swisscom/"
-            },
-            {
-                "icon": "facebook",
-                "title": "Facebook Swisscom",
-                "http": "https://www.facebook.com/Swisscom"
-            },
-            {
-                "icon": "youtube",
-                "title": "Youtube Swisscom",
-                "http": "https://www.youtube.com/swisscom"
-            }
-        ],
-        "backgroundUrl": "assets/template/experience/rotterdam.jpg"
-    },
-    {
-        "id": 7,
-        "position": 7,
-        "startAt": "07-01-2022",
-        "companyName": "Looking for a new Challenge",
-        "logo": "assets/template/experience/logo/freelancer-logo.png",
+        "id": 5,
+        "position": 5,
+        "startAt": "03-01-2021",
+        "companyName": "Bilbo",
+        "logo": "assets/template/experience/logo/bilbo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -273,13 +185,13 @@
             {
                 "language": "en",
                 "city": "",
-                "country": "",
-                "role": "Freelancer",
-                "description": "- As a freelancer, I'm currently looking for a new <i>Challenge</i>.<br>- A man with the confidence and expertise to deliver quality products in the field of information technology in a reliable, timely, and cost-effective manner."
+                "country": "United States",
+                "role": "Tech Lead | Full-Stack Developer",
+                "description": "- Led the development team under three different workstreams. <br>- Developed microservices, APIs, and micro frontends for enterprise-level applications. <br>- Designed and developed core business functionalities for a US-based real estates corporation. <br>- Created and maintained more than 20 applications with ES6+, React.js, Angular, Vue.js, Node.js, Web3 and mobile development technologies. <br>- Focused on CMS development such as Shopify and WordPress."
             }
         ],
         "technologies": [
-            
+            ".NET", "C#", "Azure", "TypeScript", "React", "Angular", "Vue.js", "Node.js", "Web3", "Microservices", "Micro Frontends", "Docker", "Microsoft SQL Server", "Kubernetes", "Kafka", "Shopify", "WordPress", "Low-Code Builder", "Ruby"
         ],
         "medias":[],
         "medias1": [
